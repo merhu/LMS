@@ -923,8 +923,8 @@ private static int updateLibraryBranch(int branchId, String branchName, String b
 //		selectAllBook();
 		
 //		selectAllAuthor();
-//		insertAuthor(6, "Merhawit Gezahegn");
-//		updateAuthor(6, "Merhawit Ambaye Gezahegn");
+//		insertAuthor(6, "Merhawit G");
+//		updateAuthor(6, "Merhawit A G");
 		
 //		selectAllBorrower();
 //		updateBorrower(6, "Summer Walker", "Washington DC.", "202-343-0223");
